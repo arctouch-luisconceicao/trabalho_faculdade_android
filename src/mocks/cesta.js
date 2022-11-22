@@ -12,8 +12,8 @@ const cesta = {
   },
   detalhes: {
     nome: "Cesta de Natal",
-    logoFazenda: logo,
-    nomeFazenda: "Angeloni",
+    logoLoja: logo,
+    nomeLoja: "Angeloni",
     descricao: "Uma cesta com produtos selecionados para sua cesta de natal",
     preco: "R$ 149,90",
     botao: "Comprar",
