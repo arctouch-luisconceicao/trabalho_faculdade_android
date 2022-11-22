@@ -41,3 +41,13 @@ rodando o projeto
 ``` 
 npm start
 ```
+<h3>Imagem do projeto: </h3>
+
+**Tela 1**
+
+![WhatsApp Image 2022-11-21 at 20 03 04](https://user-images.githubusercontent.com/71908534/203337230-b233caa6-333d-43ff-9a3c-75da82345d9b.jpeg) <br />
+![WhatsApp Image 2022-11-21 at 20 04 19](https://user-images.githubusercontent.com/71908534/203337248-c8adad72-1b13-4ab9-94c5-51532eddbcff.jpeg) <br />
+
+**Tela 2**
+
+![WhatsApp Image 2022-11-21 at 20 05 55](https://user-images.githubusercontent.com/71908534/203337270-3aefffdd-1d2e-4018-8641-d94c0413edfb.jpeg)
